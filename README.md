@@ -33,6 +33,49 @@ catch-all repo for experimenting
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+
+
+<img alt="" src="https://img.shields.io/badge/.NET-512BD4?logo=.Net"/>
+<img alt="" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Python-%233776AB?logo=Python&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/F%23-%23378BBA?logo=F%23&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Vim-019733?logo=Vim&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Eclipse-%232C2255?logo=Eclipse&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=Android%20Studio&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&logoColor=black"/>
+<img alt="" src="https://img.shields.io/badge/Jira-%230052CC?logo=Jira&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Jenkins-%23D24939?logo=Jenkins&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Node.js-%235FA04E?logo=Node.JS&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/MacOS-%23000000?logo=MacOS&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/GNU%20Emacs-%237F5AB6?logo=GNU%20Emacs&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=Tailwind%20CSS&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/NATS.io-%2327AAE1?logo=NATS.io&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Apache-%23D22128?logo=Apache&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/NGINX-%23009639?logo=NGINX&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=Postman&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Django-%23092E20?logo=Django&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?logo=Ruby%20on%20Rails&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Flask-%23000000?logo=Flask&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Socket.io-%23010101?logo=Socket.io&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Express-%23000000?logo=Express&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/AWS-%23232F3E?logo=Amazon%20Web%20Services&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=Google%20Cloud&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/GNU%20Bash-%234EAA25?logo=GNU%20Bash&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Ubuntu-%23E95420?logo=Ubuntu&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/JSON-%23000000?logo=JSON&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Notepad%2B%2B-%2390E59A?logo=Notepad%2B%2B&logoColor=black"/>
+
+
 </p>
 
 ---
