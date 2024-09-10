@@ -229,6 +229,76 @@ catch-all repo for experimenting
 </p>
 
 ---
+USEFUL MARKDOWN SYNTAX BELOW THIS POINT...
+========
+
+Header 1
+========
+
+Header 2
+--------
+
+
+> This is
+> a blockquote
+>
+> > Nested
+> > Blockquote
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+
+* **NOTE:** This is *not* the completed project. It's a previous iteration I managed to recover. The completed project is on my GitHub Enterprise account. Due to the University of Minnesota's recent change to end lifetime alumni support, I no longer have access to what was my primary GitHub account (more details on my [homepage](https://github.com/alexmking1)). While this unfinished version of the project still functions, it lacks the Node.js/Express functionality that was added later and will serve as a placeholder until I regain access to my Enterprise account.  
+* Item 2
+    * item 3a
+    * item 3b
+- Item 1
+- Item 2
+
++ Item 1
++ Item 2
+
+[link](http://google.com)
+
+
+*italic*
+_italic_
+
+
+| Left column | Center column | Right column |
+|:------------|:-------------:|-------------:|
+| Cell 1      |   Centered    |        $1600 |
+| Cell 2      |    Cell 3     |          $12 |
+
+
+
+Left column | Center column | Right column
+:----------:|:-------------:|:-----------:
+   Cell 1   |   Centered    |    $1600
+   Cell 2   |    Cell 3     |     $12
+
+
+
+
+
+![GitHub Logo](/images/logo.png)
+
+![Alt Text](url)
+
+
+
+[![GitHub Logo](/images/logo.png)](https://github.com/)
+
+[![Alt Text](image_url)](link_url)
+
+
+![alt text][logo]
+
+[logo]: /images/logo.png "Logo Title"
 
 
 
